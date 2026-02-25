@@ -1,8 +1,1 @@
-## Hi there 👋
-
-- 🔭 I'm currently working on some interesting projects
-- 🌱 I'm currently learning new technologies
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about anything you're curious about
-- 📫 How to reach me: via GitHub
-- ⚡ Fun fact: I enjoy exploring new ideas and building things
+![Metrics](https://metrics.lecoq.io/xvkong233?template=classic&lines=1&stars=1&habits=1&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&config.timezone=Asia%2FShanghai)
