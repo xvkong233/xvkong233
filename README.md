@@ -96,7 +96,7 @@
   
   ### 🏛️ Architecture College of Jiangho, NEU
   > 📍 Shenyang, China
-> > 🎯 Goal: Master's in **Architecture × Computer Science** Interdisciplinary Field
+  > 🎯 Goal: Master's in **Architecture × Computer Science** Interdisciplinary Field
   > 🔬 Research Focus:  
   > - Building Performance Simulation & Intelligent Optimization  
   > - Causal Modeling: Indoor Microenvironment × Facade Form  
