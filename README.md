@@ -1,6 +1,6 @@
 <!-- 顶部动态横幅 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=xvkong233&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome~&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=gradient" alt="header"/>
 </div>
 
 <!-- 简介区域 -->
