@@ -76,16 +76,6 @@
 </div>
 </div>
 
-<details>
-<summary><b>🗂️ View More Projects</b></summary>
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xvkong233&repo=BroadcastChannel&theme=radical&hide_border=true)](https://github.com/xvkong233)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xvkong233&repo=easy_todo&theme=radical&hide_border=true)](https://github.com/xvkong233)
-
-</div>
-</details>
-
 ---
 
 ## 🎓 Education
@@ -93,16 +83,16 @@
 <div>
   
   ![Northeastern University](https://img.shields.io/badge/Northeastern_University-Architecture-8B0000?style=for-the-badge&logo=university&logoColor=white)
-  
   ### 🏛️ Architecture College of Jiangho, NEU
-  > 📍 Shenyang, China
-  > 🎯 Goal: Master's in **Architecture × Computer Science** Interdisciplinary Field
-  > 🔬 Research Focus:  
+  📍 Shenyang, China
+  <br>
+  🔬 Research Focus:  
   > - Building Performance Simulation & Intelligent Optimization  
   > - Causal Modeling: Indoor Microenvironment × Facade Form  
-  > - Computational Design & Digital Fabrication  
+  > - Computational Design & Digital Fabrication
+  <br>
+  🎯 Goal: Master's in **Architecture × Computer Science** Interdisciplinary Field
   
-
 </div>
 
 ---
