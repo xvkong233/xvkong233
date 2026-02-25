@@ -25,13 +25,13 @@
 <div align="center">
 
 ### 💻 Programming & Development
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,cpp,rust,python,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c#,js,ts,java,cpp,rust,python,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Design & Creative Tools
-[![My Skills](https://skillicons.dev/icons?i=ps,ai,ae,au,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae,au&theme=dark)](https://skillicons.dev)
+<br>
 <img src="https://img.shields.io/badge/SketchUp-3D_Modeling-6DB33F?style=for-the-badge&logo=sketchup&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rhino-3D_Modeling-0066CC?style=for-the-badge&logo=rhino&logoColor=white"/>
-<img src="https://img.shields.io/badge/InDesign-Layout_Design-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
 
 ### 🗄️ Databases & Tools
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker,linux&theme=dark)](https://skillicons.dev)
@@ -57,16 +57,23 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  
-> 🏗️ *Projects at the intersection of Architecture & Technology*
+
+### 🔓 Open Source
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| **[Project Alpha](https://github.com/xvkong233)** | 🏢 Parametric facade optimization with environmental simulation | `Python` `Rhino` `Grasshopper` | 🟡 In Progress |
-| **[Project Beta](https://github.com/xvkong233)** | 🌿 Indoor microclimate analysis & visualization tool | `React` `D3.js` `API` | 🚧 Planning |
-| **[Project Gamma](https://github.com/xvkong233)** | 🎨 Design workflow automation for architectural studios | `Node.js` `Electron` `Plugin` | 💡 Ideation |
-| **Aether** | ✨ *A mysterious project blending design + code* | `Classified` | 🔮 Coming Soon |
+| **[Fundval-re](https://github.com/xvkong233/Fundval-re)** | 📊 Lightweight fund valuation & portfolio analysis toolkit | `Python` `Pandas` `Data Visualization` | 🟢 Active |
+| **[FormaClimate](https://github.com/xvkong233)** | 🏢 Parametric facade optimization with environmental simulation | `Python` `Rhino` `Grasshopper` | 🟡 In Progress |
+| **[ClimaScope](https://github.com/xvkong233)** | 🌿 Indoor microclimate analysis & visualization tool | `React` `D3.js` `API` | 🚧 Planning |
+| **[ArchFlow](https://github.com/xvkong233)** | 🎨 Design workflow automation for architectural studios | `Node.js` `Electron` `Plugin` | 💡 Ideation |
+### 🔒 Private / Internal
 
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| **MeowVersion** | 🗂️ Lightweight version control system for design assets & code | `Rust` `Git-Like Core` `CLI` | 🚧 Dev Preview |
+| **Aether** | ✨ *A mysterious project blending architecture + computation* | `Classified` | 🔮 Coming Soon |
+
+</div>
 </div>
 
 <details>
@@ -87,7 +94,7 @@
   
   ![Northeastern University](https://img.shields.io/badge/Northeastern_University-建筑学-8B0000?style=for-the-badge&logo=university&logoColor=white)
   
-  ### 🏛️ School of River & Architecture, NEU
+  ### 🏛️ Architecture College of Jiangho, NEU
   > 📍 Shenyang, China  
   > 🔬 Research Focus:  
   > - Building Performance Simulation & Intelligent Optimization  
