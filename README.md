@@ -95,12 +95,13 @@
   ![Northeastern University](https://img.shields.io/badge/Northeastern_University-Architecture-8B0000?style=for-the-badge&logo=university&logoColor=white)
   
   ### 🏛️ Architecture College of Jiangho, NEU
-  > 📍 Shenyang, China  
+  > 📍 Shenyang, China
+> > 🎯 Goal: Master's in **Architecture × Computer Science** Interdisciplinary Field
   > 🔬 Research Focus:  
   > - Building Performance Simulation & Intelligent Optimization  
   > - Causal Modeling: Indoor Microenvironment × Facade Form  
   > - Computational Design & Digital Fabrication  
-  > 🎯 Goal: Master's in **Architecture × Computer Science** Interdisciplinary Field
+  
 
 </div>
 
