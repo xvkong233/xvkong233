@@ -90,9 +90,9 @@
 
 ## 🎓 Education
 
-<div align="center">
+<div>
   
-  ![Northeastern University](https://img.shields.io/badge/Northeastern_University-建筑学-8B0000?style=for-the-badge&logo=university&logoColor=white)
+  ![Northeastern University](https://img.shields.io/badge/Northeastern_University-Architecture-8B0000?style=for-the-badge&logo=university&logoColor=white)
   
   ### 🏛️ Architecture College of Jiangho, NEU
   > 📍 Shenyang, China  
