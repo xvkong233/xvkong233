@@ -25,7 +25,7 @@
 <div align="center">
 
 ### 💻 Programming & Development
-[![My Skills](https://skillicons.dev/icons?i=c#,js,ts,java,cpp,rust,python,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,js,ts,java,cpp,rust,python,git,github&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Design & Creative Tools
 [![My Skills](https://skillicons.dev/icons?i=ps,pr,ai,ae,au&theme=dark)](https://skillicons.dev)
